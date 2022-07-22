@@ -1,0 +1,28 @@
+<resources>
+  <string name="app_name">Chascarrillos</string>
+  <string name="password_error">La Contraseña Debe Tener Al Menos 6 Caracteres</string>
+  <string name="email_error">Correo Invalido</string>
+  <string name="email_hint">Correo Electronico</string>
+  <string name="password_hint">Contraseña</string>
+  <string name="username_hint">Nombre De Usuario</string>
+  <string name="register_button">Registrate</string>
+  <string name="repeat_password_hint">Vuelve A ingresar Tu Contraseña</string>
+  <string name="username_error">Tu Nombre De Usuario Debe Tener Al Menos 6 Caracteres</string>
+  <string name="repeat_password_error">Las Contraseñas No Coinciden</string>
+  <string name="log_in_button">Iniciar Sesion</string>
+  <string name="all_jokes_title">Todos Los Chistes</string>
+  <string name="favorite_jokes_title">Chistes Favoritos</string>
+  <string name="my_profile_title">Mi Perfil</string>
+  <string name="log_out_button">Cerrar Sesion</string>
+  <string name="number_of_jokes_text">Numero De Chistes Favoritos: %d</string>
+  <string name="email_text">Correo Del Usuario: %s</string>
+  <string name="username_text">Nombre De Usuario: %s</string>
+  <string name="welcome_description">Para Ver Nuestro Contenido Primero Tienes Que Registrarte :]</string>
+  <string name="no_items_text">No Hay Registros Agrega O Espera!! :[</string>
+  <string name="error_title">Oops</string>
+  <string name="error_message">Algo A Salido Mal Por Favor Intentalo Mas Tarde!.</string>
+  <string name="general_positive_button">OK</string>
+  <string name="joke_hint">Ingresa Un Chiste!</string>
+  <string name="add_joke_text">Enviar Chiste</string>
+  <string name="joke_error">Tu Chiste Es Muy Corto!</string>
+</resources>

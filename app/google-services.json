@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646317815928",
+    "firebase_url": "https://appdegustavo.firebaseio.com",
+    "project_id": "appdegustavo",
+    "storage_bucket": "appdegustavo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646317815928:android:9af884577aef499dc8958d",
+        "android_client_info": {
+          "package_name": "com.mx.utng.appdegustavo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646317815928-roepc4hftlcslrrtncfpf1lia8sqt9uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_NgppH6EE5dD1s6l-vOroGV2VAMX61Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646317815928-roepc4hftlcslrrtncfpf1lia8sqt9uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
